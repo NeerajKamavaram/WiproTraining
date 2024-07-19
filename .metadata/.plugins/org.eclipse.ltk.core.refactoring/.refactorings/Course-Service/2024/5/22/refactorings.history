@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.Wipro.Course.Exception&apos; to &apos;Resgitration-Service/src/main/java/com.Wipro&apos;&#x0D;&#x0A;- Original project: &apos;Course-Service&apos;&#x0D;&#x0A;- Destination element: &apos;Resgitration-Service/src/main/java/com.Wipro&apos;&#x0D;&#x0A;- Original element: &apos;Course-Service/src/main/java/com.Wipro.Course.Exception&apos;" description="Copy package" destination="=Resgitration-Service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Wipro" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Wipro.Course.Exception" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1717155474968" version="1.0"/>
+</session>
