@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.wipro.reactiveDemo.ReactiveDemo&apos; to &apos;MonoDemo&apos;&#x0D;&#x0A;- Original project: &apos;Reactivedemo&apos;&#x0D;&#x0A;- Original element: &apos;com.wipro.reactiveDemo.ReactiveDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.wipro.reactiveDemo.MonoDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReactiveDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.wipro.reactiveDemo{ReactiveDemo.java[ReactiveDemo" matchStrategy="1" name="MonoDemo" qualified="false" references="true" similarDeclarations="false" stamp="1716876658108" textual="false" version="1.0"/>
+</session>
